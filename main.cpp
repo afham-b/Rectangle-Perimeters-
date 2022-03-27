@@ -56,8 +56,8 @@ int main(){
   s1.set_length(3);
   s2.set_width(2.5);
   cout << s1.area() << " " << s1.perimeter() <<endl; 
-  cout << s1.str() << endl;
+  //cout << s1.str() << endl;
   cout << s2.area() << " " << s2.perimeter() <<endl; 
-  cout << s2.str() << endl;
+  //cout << s2.str() << endl;
 return 0; 
 }
